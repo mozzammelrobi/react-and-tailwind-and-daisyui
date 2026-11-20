@@ -1,0 +1,97 @@
+
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "slug": "basic",
+    "price": 1000,
+    "currency": "BDT",
+    "duration": "monthly",
+    "description": "A great starting point for beginners who want to build a healthy lifestyle.",
+    "features": [
+      "Access to gym equipment",
+      "Access to cardio machines",
+      "Access to weight training area",
+      "Locker room access",
+      "Changing room access",
+      "Free drinking water",
+      "Basic workout guidance",
+      "Weekly fitness tips"
+    ],
+    "benefits": [
+      "Affordable membership",
+      "Build healthy habits",
+      "Improve strength and stamina"
+    ],
+    "limitations": [
+      "No personal trainer",
+      "No group fitness classes",
+      "No customized diet plan"
+    ],
+    "popular": false,
+    "buttonText": "Get Started"
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "slug": "standard",
+    "price": 2000,
+    "currency": "BDT",
+    "duration": "monthly",
+    "description": "A perfect choice for people who want structured workouts and professional guidance.",
+    "features": [
+      "Everything in Basic plan",
+      "Unlimited gym access during operating hours",
+      "Full access to cardio equipment",
+      "Full access to strength training area",
+      "Personal trainer (4 sessions per month)",
+      "Group fitness classes",
+      "Yoga and stretching sessions",
+      "Monthly fitness assessment",
+      "Customized workout plan"
+    ],
+    "benefits": [
+      "Professional workout guidance",
+      "Better fitness progress tracking",
+      "Improved workout consistency",
+      "Access to group training"
+    ],
+    "limitations": [
+      "Limited personal training sessions",
+      "No unlimited guest passes",
+      "No personalized meal plan"
+    ],
+    "popular": true,
+    "buttonText": "Choose Standard"
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "slug": "premium",
+    "price": 3500,
+    "currency": "BDT",
+    "duration": "monthly",
+    "description": "The ultimate fitness experience with personalized coaching, nutrition support, and exclusive benefits.",
+    "features": [
+      "Everything in Standard plan",
+      "Unlimited gym access",
+      "Unlimited personal training sessions",
+      "Dedicated personal trainer",
+      "Personalized workout program",
+      "Personalized nutrition plan",
+      "Weekly body composition tracking",
+      "Weekly fitness assessment"
+    ],
+    "benefits": [
+      "Personalized fitness experience",
+      "One-on-one professional coaching",
+      "Advanced nutrition support",
+      "Faster feedback on fitness progress",
+      "Exclusive premium facilities",
+      "Flexible membership management"
+    ],
+    "limitations": [],
+    "popular": false,
+    "buttonText": "Go Premium"
+  }
+]
